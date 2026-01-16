@@ -20,7 +20,7 @@ A lightweight Python network vulnerability scanner for authorized security testi
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/antony-jude/network-scanner.git
 cd network-scanner
 ```
 
